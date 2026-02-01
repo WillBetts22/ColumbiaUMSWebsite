@@ -27,7 +27,7 @@
 
     {
         "title": "Social Media Manager",
-        "name": "Skylar Tien",
+        "name": "Skylar Tian",
         "image": "resources/images/skylar.JPG",
         "bio":"Hi I'm Skylar Tian, a freshman in CC who loves exploring both pure and applied mathematics. I'm especially interested in Fourier analysis and how math connects to music and physics. I also enjoy sharing the beauty of problem-solving with others!"
     },
@@ -35,6 +35,6 @@
         "title": "Social Media Manager",
         "name": "Will Betts",
         "image": "resources/images/will.jpg",
-        "bio":"I'm William Betts, born and raised in Taipei Taiwan. In my free time I love playing baord games, watching movies, and doing anything active."
+        "bio":"I'm William Betts, a freshman studying Math & CS, born and raised in Taipei Taiwan. In my free time I love playing baord games, watching movies, and doing anything active."
     }
 ]
